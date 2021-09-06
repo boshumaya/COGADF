@@ -1,0 +1,9 @@
+{
+	"name": "vijanADF",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1c60903e-1d6e-425c-8cb9-0cd9a046bada",
+		"tenantId": "d477f0ec-d176-475a-bfa9-cd8e71e7e935"
+	}
+}
